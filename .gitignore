@@ -1,0 +1,13 @@
+data/*.csv
+data/*.xlsx
+data/*.db
+data/*.sqlite*
+data/uploads/*
+!data/uploads/.gitkeep
+models/*.big
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.log
+.env

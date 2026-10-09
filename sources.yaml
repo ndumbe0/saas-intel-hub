@@ -1,0 +1,6 @@
+sources:
+  - name: "starter_story_saas"
+    type: file
+    path: data/Micro-SaaS Ideas Database [Starter Story].xlsx
+    enabled: true
+    description: "Starter Story Micro-SaaS Ideas Database"
